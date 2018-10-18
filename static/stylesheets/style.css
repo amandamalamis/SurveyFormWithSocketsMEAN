@@ -1,0 +1,13 @@
+.main {
+    width: 100%;
+    height: 500px;
+    background-color: lightblue;
+} 
+h1, h2,{
+    text-align: center;
+}
+.boxes{
+    color: purple;
+    font-size: 20px;
+    
+}
